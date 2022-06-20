@@ -3,7 +3,7 @@ export default {
 database: {
     host: 'localhost',
     user: 'root',
-    password: 'Sancayetanosantarita38358*#',
+    password: 'xxxxxxxxxxxxxxxxxxxxxxxxxx',
     database: 'ng_games_db'
 }
 
